@@ -1,0 +1,10 @@
+.flexcontainer{
+    width: 100%;
+}
+.flexcontainer ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
